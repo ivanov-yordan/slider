@@ -1,1 +1,1 @@
-Това е базов слайдер, създаден с цел да онагледи най-общо начина по-който се създават модули за jQuery.
+A base plugin for the tutorial in my [blog](http://ivanovyordan.com/blog/%D1%83%D1%80%D0%BE%D1%86%D0%B8/javascript/2013/06/09/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B8-%D0%BD%D0%B0-jquery-%D0%BF%D0%BB%D1%8A%D0%B3%D0%B8%D0%BD%D0%B8%D1%82%D0%B5-%D1%87%D0%B0%D1%81%D1%82-1.html).
