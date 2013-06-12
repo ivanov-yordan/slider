@@ -1,0 +1,48 @@
+body {
+	background: #e6e6e6;
+}
+
+ul {
+	-webkit-padding-start: 0;
+}
+
+.images {
+	width: 500px;
+	margin: 10px auto;
+}
+
+
+.images img {
+	background: #fff;
+	padding: 10px;
+	border: 1px solid #c0c0c0;
+	height: 300px;
+}
+
+.links {
+	width: 100px;
+	margin: 10px auto;
+}
+
+.links a {
+	font: 0/0 a;
+	text-shadow: none;
+	color: transparent;
+	background: #fff;
+	display: inline-block;
+	padding: 5px;
+	border: 1px solid #c0c0c0;
+	border-radius: 10px;
+}
+
+.links .active {
+	background: #666;
+}
+
+.links li {
+	margin-right: 5px;
+}
+
+.links li:last-child {
+	margin-right: 0;
+}

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Slider demo</title>
+
+	<link rel="stylesheet" href="http://localhost:4000/demos/2013/06/09/основи-на-jquery-плъгините/style.css">
+</head>
+<body>
+
+<ul class="images">
+	<li><img src="http://farm7.staticflickr.com/6055/6365090557_8c2716d694_z.jpg" alt=""></li>
+	<li><img src="http://farm7.staticflickr.com/6140/5952295472_df64372ee4_z.jpg" alt=""></li>
+	<li><img src="http://farm6.staticflickr.com/5292/5416255207_58d6bbb1d1_z.jpg" alt=""></li>
+	<li><img src="http://farm9.staticflickr.com/8256/8680497192_5d625f2bcd_z.jpg" alt=""></li>
+	<li><img src="http://farm9.staticflickr.com/8261/8680497492_ddd15e72b2_z.jpg" alt=""></li>
+</ul>
+
+<p>Изображения от <a href="http://www.flickr.com/photos/aigle_dore/">Brenn Moyan</a></p>
+
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="http://localhost:4000/demos/2013/06/09/основи-на-jquery-плъгините/slider.js"></script>
+<script>
+	$('.images').slider({
+		activeClass: 'active'
+	});
+</script>
+</body>
+</html>
